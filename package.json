@@ -1,0 +1,38 @@
+{
+  "author": "Scott Morgan",
+  "bugs": {
+    "url": "https://github.com/adligo/ui_group_deps.ts.adligo.org/issues"
+  },
+  "description": "This is contains the dependencies for the SLink Group (ui_group.ts.adligo.org).",
+  "dependencies": {
+    "@types/node": "^25.0.9",
+    "@types/uuid": "^9.0.0",
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "npm": "^11.7.0",
+    "path": "^0.12.7",
+    "typescript": "^5.9.3"
+  },
+  "homepage": "https://github.com/adligo/ui_group_deps.ts.adligo.org#readme",
+  "keywords": [
+    "ant",
+    "build",
+    "dependencies",
+    "javascript",
+    "gradle",
+    "maven",
+    "slink",
+    "slink_group"
+  ],
+  "license": "Apache-2.0",
+  "name": "@ts.adligo.org/ui_group_deps",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adligo/ui_group_deps.ts.adligo.org.git"
+  },
+  "type": "module",
+  "version": "0.0.1",
+  "devDependencies": {
+    "c8": "^10.1.3"
+  }
+}
